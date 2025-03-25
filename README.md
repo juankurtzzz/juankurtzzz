@@ -2,11 +2,6 @@
 Meu nome é Juan Pietro Kurtz e sou formado como Técnico em Automação Industrial. Desde cedo, sempre tive uma paixão por tecnologia, mas foi com o início do curso técnico que esse interesse se fortaleceu ainda mais. Com isso, decidi seguir para a área de programação, onde venho me dedicando a aprender e aplicar novos conhecimentos.
 
 
-<p align="center">
-  <a href="https://linkedin.com/in/juanpietrokurtz">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
 
 # 💻 Atribuições:
 <p align="center">
