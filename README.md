@@ -56,6 +56,8 @@ Meu nome é Juan Pietro Kurtz e sou formado como Técnico em Automação Industr
 <br/>  
 
 ## Meus links
+<br/>
+
 <div align="center">
 <a href="https://github.com/juankurtzzz" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
