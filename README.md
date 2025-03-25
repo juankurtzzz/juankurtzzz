@@ -71,7 +71,6 @@ Meu nome é Juan Pietro Kurtz e sou formado como Técnico em Automação Industr
 <br/>  
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 # 📊 Status GitHub:
 <p align="center">
